@@ -1,0 +1,9 @@
+*.csv
+pretrains/**
+data/**
+*.txt
+*.zip
+
+.ipynb_checkpoints/**
+
+__pycache__/**
